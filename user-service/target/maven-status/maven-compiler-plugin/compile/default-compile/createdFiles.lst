@@ -1,0 +1,5 @@
+com\example\microservice\userservice\repository\UserRepository.class
+com\example\microservice\userservice\entity\User.class
+com\example\microservice\UserServiceApplication.class
+com\example\microservice\userservice\controller\UserController.class
+com\example\microservice\userservice\service\UserService.class
